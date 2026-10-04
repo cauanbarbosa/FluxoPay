@@ -109,17 +109,26 @@ order by t1.data_contratacao;
 **Estrutura dos Dashboards & Principais Insights**
 
 ### **Dashboard de Inadimplência & Recuperação de Crédito**
+
+<img width="1337" height="750" alt="image" src="https://github.com/user-attachments/assets/3ca86e16-dc99-42a3-bfd6-e96c7474a23a" />
+
 * Focado no acompanhamento do saldo em aberto, evolução temporal da inadimplência e taxa de sucesso na cobrança.
 * **Desempenho por Produto:** O *Empréstimo Pessoal* registra o maior volume em aberto (US\$ 3,2M) e recuperado (US\$ 1,1M), seguido pelo *Crédito Consignado* (US\$ 1,6M em aberto / US\$ 0,6M recuperado) e *Cartão de Crédito Parcelado* (US\$ 1,5M em aberto / US\$ 0,5M recuperado).
 * **Evolução Temporal:** Acompanhamento contínuo da curva histórica (2022–2026) da relação entre saldo pendente e valor recuperado.
 
 ### **Dashboard de Perfil da Carteira & Risco de Crédito**
+
+<img width="1330" height="749" alt="image" src="https://github.com/user-attachments/assets/061891eb-1280-4467-a85a-30a8b89785bd" />
+
 * Mapeia a distribuição da carteira ativa, relacionando renda mensal, capacidade de tomador de crédito e score.
 * **Matriz de Renda vs. Contrato:** Análise de dispersão que correlaciona o valor liberado por contrato com a renda declarada do cliente.
 * **Participação por Produto:** O *Empréstimo Pessoal* representa US\$ 7,09M (40,98%) do volume contratado, seguido por *Crédito Consignado* com US\$ 5,02M (28,99%), *Cartão de Crédito Parcelado* com US\$ 2,68M (15,46%) e Antecipação de Recebíveis* com US\$ 2,52M (14,57%).
 * **Principais Praças:** Destaque para Brasília (US\$ 1,1M), Ribeirão Preto (US\$ 0,8M) e Santos (US\$ 0,8M).
 
 ### **Dashboard de Contratos Cancelados (Churn)**
+
+<img width="1330" height="744" alt="image" src="https://github.com/user-attachments/assets/c965099c-2a24-44f2-945b-c5c0c156048b" />
+
 * Investiga a taxa de evasão de contratos e identifica os segmentos e regiões com maior impacto financeiro.
 * **Distribuição por Produto:** O maior volume cancelado está concentrado em *Empréstimo Pessoal* (US\$ 3,15M / 38,24%) e *Crédito Consignado* (US\$ 2,64M / 32,11%).
 * **Análise por Segmento:** O segmento de *Varejo* representa a maior fatia cancelada (US\$ 3,7M / 529 contratos), seguido pelo *Consignado Público* (US\$ 1,7M / 241 contratos) e *Consignado Privado* (US\$ 1,4M / 187 contratos).
