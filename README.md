@@ -1,6 +1,6 @@
 # FluxoPay
 Criação de um Dashboard Financeiro Comercial da FluxoPay 
-
+ 
 ```markdown
 # 🚀 FluxoPay — Business Intelligence & Financial Analytics
 
